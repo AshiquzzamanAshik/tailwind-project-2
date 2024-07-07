@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities{
+    .rating{
+        @apply text-[#00FF84] text-[20px] items-center;
+    }
+
+   
+}
